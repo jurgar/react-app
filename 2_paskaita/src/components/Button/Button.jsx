@@ -12,3 +12,13 @@ const Button = ({ text, type, bgColor }) => (
 );
 
 export default Button;
+
+
+// koda galima rasyti:
+
+// const add1 = (num)=>{
+  //return num + num;
+//};
+// arba 
+
+// const add = (num)=> num + num;
