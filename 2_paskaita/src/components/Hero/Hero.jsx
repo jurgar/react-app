@@ -23,6 +23,8 @@ const Hero = ({ title, subtitle, color, className, children }) => {
     return null;
   }
 
+npm start
+
   return (
     <div className={`${heroClassName()} ${className}`}>
       {/* su ternary operatoriais ? : arba && */}
